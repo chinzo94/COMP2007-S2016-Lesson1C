@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="COMP2007_S2016_Lesson1C.Default" %>
 
 <!DOCTYPE html>
-
+<!-- Chad Ostler -->
 <html lang="en">
 <head runat="server">
     <meta charset="utf8" />
@@ -23,17 +23,17 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">ASP.NET Web Form</a>
+                <a class="navbar-brand" href="#">Chad's ASP.NET Web Form</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="#"><i class="fa fa-home fa-lg"></i>Home</a></li>
-                    <li><a href="#"><i class="fa fa-th fa-lg"></i>Products</a></li>
-                    <li><a href="#"><i class="fa fa-gear fa-lg"></i>Services</a></li>
-                    <li><a href="#"><i class="fa fa-info fa-lg"></i>About Us</a></li>
-                    <li><a href="#"><i class="fa fa-phone fa-lg"></i>Contact Us</a></li>
+                    <li class="active"><a href="#"><i class="fa fa-home fa-lg"></i> Home</a></li>
+                    <li><a href="#"><i class="fa fa-th fa-lg"></i> Products</a></li>
+                    <li><a href="#"><i class="fa fa-gear fa-lg"></i> Services</a></li>
+                    <li><a href="#"><i class="fa fa-info fa-lg"></i> About Us</a></li>
+                    <li><a href="#"><i class="fa fa-phone fa-lg"></i> Contact Us</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
